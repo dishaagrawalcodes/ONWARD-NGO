@@ -1,0 +1,22 @@
+<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+  </defs>
+
+  <!-- Three interlocking circles centered at x=340 -->
+  <circle cx="316" cy="100" r="28" fill="none" stroke="var(--color-text-primary)" stroke-width="2.2" style="fill:none;stroke:rgb(20, 20, 19);color:rgb(0, 0, 0);stroke-width:2.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="354" cy="100" r="28" fill="none" stroke="var(--color-text-primary)" stroke-width="2.2" style="fill:none;stroke:rgb(20, 20, 19);color:rgb(0, 0, 0);stroke-width:2.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="335" cy="68" r="28" fill="none" stroke="var(--color-text-primary)" stroke-width="2.2" style="fill:none;stroke:rgb(20, 20, 19);color:rgb(0, 0, 0);stroke-width:2.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Accent dot at convergence -->
+  <circle cx="335" cy="100" r="5" fill="var(--color-text-primary)" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Thin baseline -->
+  <line x1="240" y1="142" x2="440" y2="142" stroke="var(--color-text-secondary)" stroke-width="0.6" opacity="0.4" style="fill:rgb(0, 0, 0);stroke:rgb(61, 61, 58);color:rgb(0, 0, 0);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Wordmark -->
+  <text x="340" y="195" text-anchor="middle" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Cormorant Garamond&quot;, Georgia, serif;font-size:52px;font-weight:400;text-anchor:middle;dominant-baseline:auto">ONWARD</text>
+
+  <!-- Tagline -->
+  <text x="340" y="222" text-anchor="middle" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;DM Sans&quot;, sans-serif;font-size:11px;font-weight:300;text-anchor:middle;dominant-baseline:auto">GLOBAL IMPACT INITIATIVE</text>
+</svg>
